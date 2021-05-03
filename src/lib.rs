@@ -14,6 +14,7 @@ mod ast;
 mod avro;
 mod bigquery;
 pub mod casing;
+mod dhall;
 mod jsonschema;
 mod traits;
 
